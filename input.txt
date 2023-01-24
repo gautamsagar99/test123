@@ -1,6 +1,3 @@
-jshadcfhk
-akbdskjaf
-jgseavfj
-asdhbhjasbd
-qbdfjkaqdf
-jkabshkdf
+import os 
+
+print("afsdjhbsdhkf")
